@@ -1,0 +1,13 @@
+# Pyrogram for Telegram Bot API
+pyrogram==2.0.106
+
+# MongoDB async driver
+motor==3.1.1
+
+# Additional dependencies you may require based on previous conversation
+shortuuid==1.0.12
+aiofiles==23.2.1
+anyio==4.3.0
+
+# You may need threading if working in an environment that supports it.
+# Python's native threading library doesn't need to be added as a separate requirement.
